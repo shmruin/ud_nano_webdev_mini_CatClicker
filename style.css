@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-    display: table-cell;
+    display: table-row;
     vertical-align: middle;
     text-align: center; 
 }
@@ -24,4 +24,10 @@ body {
 
 .cat-name-list {
     text-align: left;
+}
+
+.admin-container {
+    display: none;
+    vertical-align: middle;
+    text-align: center; 
 }
